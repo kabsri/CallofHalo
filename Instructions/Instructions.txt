@@ -1,0 +1,5 @@
+Arrow keys or WASD to move
+Try to collect all the coins as fast as possible
+You can jump up to three times
+Push against the side of a wall and press up to wall jump
+You can press down to see where the remaining coins are, but you will have a time penalty
